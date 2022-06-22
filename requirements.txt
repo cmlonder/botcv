@@ -11,7 +11,7 @@ fasteners==0.15
 humanfriendly==8.2
 idna==2.9
 monotonic==1.5
-numpy==1.18.4
+numpy==1.22.0
 opencv-python==4.2.0.34
 pathspec==0.8.0
 property-manager==3.0
